@@ -3,14 +3,14 @@
 ## This bot is VERY cool, so proceed with care.
 
 Before explaining how the bot works, lemme show you what the bot lets you do. You know those videos that makes certain celebrities/youtubers sing by stitching together instances of each word in the lyrics of a song together? Well it makes creating videos like that, for example the ones on this channel, SUPER EASY!!:
-https://www.youtube.com/channel/UCtvbvzHVrc3SUqQerG1cFGA 
+https://www.youtube.com/channel/UCtvbvzHVrc3SUqQerG1cFGA  
 
 These ones I actually personally edited for the channel:
-https://www.youtube.com/watch?v=YKq5wwtvCyc
-https://www.youtube.com/watch?v=TQkunqJX3rw
-https://www.youtube.com/watch?v=2ZriTDY0zeE
-https://www.youtube.com/watch?v=1BzqGwtBOu0
-https://www.youtube.com/watch?v=yn5227Fhu10
+https://www.youtube.com/watch?v=YKq5wwtvCyc 
+https://www.youtube.com/watch?v=TQkunqJX3rw 
+https://www.youtube.com/watch?v=2ZriTDY0zeE 
+https://www.youtube.com/watch?v=1BzqGwtBOu0 
+https://www.youtube.com/watch?v=yn5227Fhu10 
 
 In fact, this very channel USES THIS VERY BOT!!! I have been collaborating extensively with the owner, and helped him set it up on his machine. However, I have realised that this project is too awesome to be kept private, and used only by one channel. I'm not even profiting from it (like I originally hoped :p)
 
@@ -24,7 +24,7 @@ Well my son, you have a lot to learn. Not. Because that's exactly what they do, 
 So yeah, this bot I made goes and does that for them 😱😱😱 It scans a bunch of videos on a given youtube channel / given youtube api search query, uses mAcHiNe LeArNiNg to detect when certain words are spoken in those videos, then uses the beautiful ffmpeg to cut those parts from those videos and puts them neatly in an organised filesystem. Then you can easily drag and drop those clips containing each lyric into a video editor and create your song!
 
 Here is an example of said output for Liza Koshy singing Fireflies by Owl Nation:
-https://drive.google.com/file/d/0B89Pkf0QGGTOQXlMWTVIc2VkY1k/view
+https://drive.google.com/file/d/0B89Pkf0QGGTOQXlMWTVIc2VkY1k/view  
 (Big download, 3.5 GB, contains bunch of video files)
 
 You can init the settings for the method to get the videos to scan, number of times to get the same word (in case one instance of the result is slightly wrong), max length of videos to use for scanning, the length of padding to add to the start and end of each final video clip for easy editing, and a whole lot more...
@@ -71,9 +71,9 @@ The bot shouldn't be too hard to figure out how to run. Just use xampp with php 
 
 You need youtube api credentials. In teh youtubeDataGetter, change these lines:
 
-$OAUTH2_CLIENT_ID = 'you have';
-$OAUTH2_CLIENT_SECRET = 'now encountered';
-$refreshToken = 'god himself';
+$OAUTH2_CLIENT_ID = 'you have';  
+$OAUTH2_CLIENT_SECRET = 'now encountered';  
+$refreshToken = 'god himself';  
 
 to your correct values.
 
@@ -101,6 +101,8 @@ btw, pdp = PewDiePie, which is a youtube channel name
 - There will obviously be glitches and weird things u may not expect, when I made my version of pdp sings fireflies it didn’t present too much of a problem considering I made it try to get like 6 occurances of each lyric, but make sure to message me if something is unusable or if you have any questions about how it works!
 
 - I added a feature so that the number after the word tells you how many times that word has appeared before, so for example if the folder was called 30_potato_5, the 30 means it is the 3rd lyric in the song, and the 5 means potato has occurred 5 times before
+
+- If you do not want to pay for watson to get more accurate and finer results, you can just use the clips stored in  ./downloadedVideos/PewDiePie/GodsPlan/videoAndAudioClipsOfLyrics or the equivalent. It is still pretty good, just the clips are slightly longer, the length of the entire phrase, so like 5 seconds or so
 
 
 ### An explanation I wrote ages ago no. 1
