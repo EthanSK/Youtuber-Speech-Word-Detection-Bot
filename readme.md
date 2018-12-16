@@ -67,7 +67,7 @@ With the autotune and autoediting stuff, I have made it work in the past correct
 
 Before you run you need composer and run composer install in the current working directory of the project.
 
-The bot shouldn't be too hard to figure out how to run. Just use xampp with php 5.6.3 on a mac, drag this root dir into htdocs in the xampp folder in applications, start the apache server (manage servers > bottom button of vertical list of buttons(text doesn't appear in new macos ffs)), wait till server is on and green icon shows, go to 127.0.0.1/*insert_rootdir_name* in a good browser like chrome (sometimes you must do additional things with the php config files in xampp to allow the bot to run for longer than the preset timeout - just look up how to do this its easy and u just change 1 line i think.)
+The bot shouldn't be too hard to figure out how to run. Just use xampp with php 5.6.3 on a mac, drag this root dir into htdocs in the xampp folder in applications, start the apache server (manage servers > bottom button of vertical list of buttons(text doesn't appear in new macos ffs)), wait till server is on and green icon shows, go to 127.0.0.1/*insert_rootdir_name* in a good browser like chrome (sometimes you must do additional things with the php config files in xampp to allow the bot to run for longer than the preset timeout - just look up how to do this its easy and u just change 1 line i think.). Also give the entire root dir recursive read write permissions for all users.
 
 You need youtube api credentials. In teh youtubeDataGetter, change these lines:
 
