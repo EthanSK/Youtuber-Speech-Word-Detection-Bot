@@ -1,0 +1,16 @@
+{
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
+    "require": {
+        "google/apiclient": "^2.1",
+    "friendsofphp/php-cs-fixer": "^2.4"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Ledat\\": "src"
+        }
+    }
+
+
+}

@@ -1,0 +1,16 @@
+{
+  "type": "service_account",
+  "project_id": "speech-test-173011",
+  "private_key_id": "ab1ee2b707ad10c1492836a6defe7c51b4e227b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCl6ACXmQYYlxjv\n7PxcgvbQlr9zIomr62X0zXaViPSPlsyAP4JKoU0vFGVfaeKkcnXMuwCKq+C5qfJL\n1xcK3cRg2iePIHgm0g7AGASF9A62u+uaoeu5b56QxjCKGuio7ooleuaoeuvPuei5MftiaNP/Hk3KVqy3Q\naoeFvzlLI/ilefaqutaUwoSRs1R//cZTR9y+Obw+tI4QJPiJE5XxB+bZPiyeuiouieudhidioduuhuiulVTSwlWZGrBmchYDrWKFeZYY9Jeuidhu3hBGDariY9ObJc\nALHW7kNlAgMBAAECggEAApqH+9kSb+tbIFTLRxZlEjPzcDagC3snv/ZDgKaouhioeuioeEEkbP\nEcotXMd4Qx9iUeODA4qqT5q1sPdukOtaWpdXDLwbO1vhGA1t5UoRojEeTQ3d9z8u\nk8MuQJaoeuPx/QYOa3uSUBf+rpmA1Bx7xV6I2wjSWJnCTF367w0JAbEv2UgAbc8h9E75\nyspcDRfNuq8apwo1njFamL79/heF8hRIeix/rkMGxPZPxmmY0qpTRxZsVb8enQWm\n9+hDRzSsis0M1MoUSX3Uf+cTbnZBwnJCZfCbsr
+  
+  THIS IS THE WRONG KEY, CREATE YOU OWN AND REPLACE THIS FILE
+  
+  HR5o\n3QSAkmICDBCcpYLaBQsXqqnEW7td2WDs42vVDCbDkFLgPpTxJVthfkH8J3T+Hm03\uao oe uOk0h2+fA8VZcq/fphHN3CeuaueqZIj0OoW5+xft7kasav6zWh\nvYLMCtctbtdXpPSgGj3751Gz2fkid90TMPtLYzsDkgEd+TXtYmHH+Zys3ZgqawoI\nK1V8PSBL5iMvxWl2T/oKa oe uaeu oeuaoeuaoeuaoeMEVjjsLvzntJ9oiiSHx6Ib\n01nvbTs/OPlxs5/Jc6pAK1U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-test-service@speech-test-173011.iam.gserviceaccount.com",
+  "client_id": "103015075242149944372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-test-service%40speech-test-173011.iam.gserviceaccount.com"
+}
