@@ -1,6 +1,6 @@
 # Celebrity/Youtuber Sings Speech/Word Detection Bot
 
-## This bot is VERY cool, so proceed with care.
+## Intro
 
 Before explaining how the bot works, lemme show you what the bot lets you do. You know those videos that makes certain celebrities/youtubers sing by stitching together instances of each word in the lyrics of a song together? Well it makes creating videos like that, for example the ones on this channel, SUPER EASY!!:
 https://www.youtube.com/channel/UCtvbvzHVrc3SUqQerG1cFGA  
