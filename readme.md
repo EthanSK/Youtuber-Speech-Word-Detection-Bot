@@ -1,3 +1,7 @@
+I remade the bot to be cross platform, have a nice GUI, and just be better overall: https://www.etggames.com/youtube-word-finder
+
+
+
 # Celebrity/Youtuber Sings Speech/Word Detection Bot
 
 ## Intro
