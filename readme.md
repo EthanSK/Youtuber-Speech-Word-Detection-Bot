@@ -1,4 +1,4 @@
-# IMPORTANT: I have decided to open source a much improved version: https://github.com/EthanSK/Youtube-Word-Finder so please use that! Thanks
+# IMPORTANT: I have decided to open source a much improved version: https://github.com/EthanSK/Youtube-Word-Finder so please use that!
 
 I remade the bot to be cross platform, have a nice GUI, and just be better overall: https://youtubewordfinder.com
 
