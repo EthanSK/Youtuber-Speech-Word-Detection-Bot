@@ -33,7 +33,7 @@ You can init the settings for the method to get the videos to scan, number of ti
 
 I went one step further, and used an autotune api to try and match each video clip of a lyric to the actual pitch in the actual song, so it sounds even more similar to the original song and sounds like actual singing instead of robotic rapping!
 
-And believe it or not, I went EVEN further, and extended this bot's functionality to auto EDIT the videos!?!?! wtf?? Isn't that like retardedly stupid and insane? Yeh
+And believe it or not, I went EVEN further, and extended this bot's functionality to auto EDIT the videos!?!?! wtf?? Isn't that like stupid and insane? Yeh
 Basically, you have to give it a subtitle file containing the time at which each lyric appears in the actual song, and how long it lasts, which is maybe a long-ish process to do for each song the first time, but then you can reuse that file if you are using the same song but with different celebrities...
 
 The way it does this automated editing is by selected the most confident (autotuned) video clip for each lyric, stretching it or squishing it to be the exact time of the lyric in the actual song, then placing each result in an ordered folder of final lyrics. Then it can hopefully be dragged into a video editor, and all you have to do is drag in the instrumental of the song, and the lyrics should line up!
